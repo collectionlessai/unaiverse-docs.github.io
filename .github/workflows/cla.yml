@@ -24,5 +24,5 @@ jobs:
         with:
           path-to-signatures: 'signatures/version1/cla.json'
           path-to-document: 'https://github.com/collectionlessai/unaiverse-src/blob/main/CLA.md'
-          branch: 'main'
+          branch: 'cla-signatures'
           allowlist: mela64,gnekt,tommasoguidi,bot*
